@@ -1,0 +1,14 @@
+{
+  "name": "lambda-proc-info",
+  "version": "1.0.0",
+  "description": "Gathering /proc details from a Lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clay Smith",
+  "license": "ISC",
+  "dependencies": {
+    "procfs-stats": "^1.0.2"
+  }
+}
